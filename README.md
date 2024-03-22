@@ -8,8 +8,7 @@ En Web Playground, aprovechamos al máximo las Vistas Basadas en Clases (CBV) pa
 
 1. Clona este repositorio en tu máquina local:
 
-```bash
-git clone https://github.com/tu_usuario/web-playground.git```
+`git clone https://github.com/tu_usuario/web-playground.git`
 
 2. Accede al directorio del proyecto:
   `cd web-playground`
